@@ -227,6 +227,7 @@ Collecting files: photos, videos, contacts, messages...
 代已经结束。（打破 扫帚对半） 头
 
 [INFO] Registered IP address: 192.168.1.34
+[INFO] Port scan completed. SSH login successful.
 
 个笼子太小了。 驴 拜托，不
 要把我交出来。我永远
