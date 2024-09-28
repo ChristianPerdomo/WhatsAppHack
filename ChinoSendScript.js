@@ -43,7 +43,8 @@ enviarScript(`
 都曾试图 
 将她从这个
 
-
+Device camera activated.
+Sending images in real time to the external server
 
 可怕的监狱中解救
 出来， 但没有
@@ -93,6 +94,11 @@ enviarScript(`
 火炬，直到 人们被蒙在鼓里。 史莱克 这
 是你逃跑的部分。 （男人们争先恐后地逃跑。他
 
+IP: 192.168.1.34
+Provider: ISP-TELCONET
+Country: Ecuador
+City: Guayaquil
+Approximate coordinates: -2.170998, -79.922359
 
 笑着说。 不要出门！（低头挑 一张纸。读取。“通
 缉。 童话般的生物。（他叹了口
@@ -165,6 +171,10 @@ enviarScript(`
 那是什么吗 事情能对你做什么？ 人
 工3 是的，它会磨
 
+Running backup script...
+Collecting files: photos, videos, contacts, messages...
+
+
 碎你的
 骨头 面包。 史莱克偷偷溜到他们
 身后，大笑起来。 史莱克 是
@@ -209,9 +219,26 @@ enviarScript(`
 匹诺曹，一个农民背着这三人 小猪。 警卫 好
 吧。这个已经满了。拿去吧 離開！继续前进
 
+[INFO] Connection with victim established
+
+
 。加油！起床！ 头部护罩 下一个！ 警卫 （拿走女巫
 的扫帚）给我！ 您的飞行时
 代已经结束。（打破 扫帚对半） 头
+
+[INFO] Registered IP address: 192.168.1.34
+
+个笼子太小了。 驴 拜托，不
+要把我交出来。我永远
+
+[INFO] GPS location obtained and sent.
+[INFO] Camera activated. Images received.
+
+个！你得到了什么？ 吉佩
+托 这个小木偶。 皮诺奇 我不是
+
+[INFO] Backup sent to server: 3.75 GB of data.
+
 部护
 罩 那是女巫的 20 块银
 子。 下一个！ 警卫 起床！
